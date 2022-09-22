@@ -1,9 +1,11 @@
-Hola GitHub, esta es mi primera practica en la plataforma
+Hola GitHub, esta es mi primera practica en la plataforma.
 
-Colores del arcoiris 
+Colores del arcoiris:
 
 Rojo
+Naranja
+Amarillo
 Verde
 Azul
 Morado
-Amarillo
+Violeta
